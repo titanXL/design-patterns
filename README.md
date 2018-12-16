@@ -8,4 +8,4 @@ A collection of design patterns
 - Builder - Break down the construction of a complex object into separate concerns.
 - Adapter - Convert an interface of a class into another. Allows classes to work togheter that couldnt otherwise because of incompatible interfaces.
 
-Offtopic: path normalization needed for windows mashines.
+Offtopic: path normalization needed for windows machines.
