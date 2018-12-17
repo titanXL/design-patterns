@@ -7,5 +7,6 @@ A collection of design patterns
 - Factory - Encaplustes everything we need to create a instance in one method.
 - Builder - Break down the construction of a complex object into separate concerns.
 - Adapter - Convert an interface of a class into another. Allows classes to work togheter that couldnt otherwise because of incompatible interfaces.
+- Proxy - Object controlling access to another object
 
 Offtopic: path normalization needed for windows machines.
