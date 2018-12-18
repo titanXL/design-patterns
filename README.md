@@ -13,5 +13,6 @@ A collection of design patterns
 - Chain of Responsibility - Chain togheter objects to handle a request, which can return a result or pass the request to another object.
 - Command: Commands are objects that contain all of the necessary data to execute a specific action on the client.
 - Iterator: Design to work with collections of data, giving us a clear way to iterate any collection.
+- Observer: Define a one-to-many dependency between objects, so when one objects state changes, all its dependants are notified and updated automatically.
 
 Offtopic: path normalization needed for windows machines.
