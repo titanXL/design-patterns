@@ -12,5 +12,6 @@ A collection of design patterns
 - Decorators - Allows attaching additional methods and properties to exisiting objects.
 - Chain of Responsibility - Chain togheter objects to handle a request, which can return a result or pass the request to another object.
 - Command: Commands are objects that contain all of the necessary data to execute a specific action on the client.
+- Iterator: Design to work with collections of data, giving us a clear way to iterate any collection.
 
 Offtopic: path normalization needed for windows machines.
