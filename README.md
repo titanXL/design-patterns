@@ -14,5 +14,6 @@ A collection of design patterns
 - Command: Commands are objects that contain all of the necessary data to execute a specific action on the client.
 - Iterator: Design to work with collections of data, giving us a clear way to iterate any collection.
 - Observer: Define a one-to-many dependency between objects, so when one objects state changes, all its dependants are notified and updated automatically.
+- Strategy: Lets you create multiple alghoritms for a specific task and decide at runtime which one to use.
 
 Offtopic: path normalization needed for windows machines.
