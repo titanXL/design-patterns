@@ -10,5 +10,6 @@ A collection of design patterns
 - Proxy - Object controlling access to another object.
 - Composite - Composite lets clients treat individual object and compositions of objects uniformly.
 - Decorators - Allows attaching additional methods and properties to exisiting objects.
+- Chain of Responsibility - Chain togheter objects to handle a request, which can return a result or pass the request to another object.
 
 Offtopic: path normalization needed for windows machines.
