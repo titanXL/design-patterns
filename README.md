@@ -11,5 +11,6 @@ A collection of design patterns
 - Composite - Composite lets clients treat individual object and compositions of objects uniformly.
 - Decorators - Allows attaching additional methods and properties to exisiting objects.
 - Chain of Responsibility - Chain togheter objects to handle a request, which can return a result or pass the request to another object.
+- Command: Commands are objects that contain all of the necessary data to execute a specific action on the client.
 
 Offtopic: path normalization needed for windows machines.
